@@ -15,13 +15,6 @@ public class Main {
         //arrays.dizidenIlkveSonElemaniOku();
         //arrays.dizidenRasgeleUcElemanOku();
         //arrays.diziRasgeleDoldur();
-        Odev1DızıElemanTopla odev = new Odev1DızıElemanTopla();
-        //odev.eleman();
-        //odev.elemanGöster();
-        //odev.elemanTopla();
-        //odev.elemanMaxbul();
-        //odev.elemenMinBul();
-        //odev.diziIstatıslık();
         SansTopu sans = new SansTopu();
         sans.numaraGir();
         System.out.println("*********************OYNADIĞINIZ KUPON*********************");
